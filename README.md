@@ -30,6 +30,6 @@
 Блок кода
 \```
 
-[Текст ссылки](https://en.wikipedia.org/wiki/Doom_%281993_video_game%29)
+[Doom](https://en.wikipedia.org/wiki/Doom_%281993_video_game%29)
 
 :smile:
