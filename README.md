@@ -4,4 +4,4 @@
 *Лягушки*
 ###Заголовок 3 уровня
 **Белки**
-![Текст описания](https://www.example.com/image.jpg)
+![Doom]([https://www.example.com/image.jpg](https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Doom_cover_art.jpg/250px-Doom_cover_art.jpg))
