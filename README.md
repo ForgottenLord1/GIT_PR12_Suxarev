@@ -1,4 +1,6 @@
 # PR12_Suxarev
+#Заголовок 1 уровня
+
 ~~Животные~~
 
 ##Заголовок 2 уровня
@@ -26,8 +28,8 @@
     </tr>
 </table>
 
-\```
-Блок кода
+\```python
+print("Привет, мир!")
 \```
 
 [Doom](https://en.wikipedia.org/wiki/Doom_%281993_video_game%29)
