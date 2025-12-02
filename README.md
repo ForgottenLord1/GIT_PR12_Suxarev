@@ -28,9 +28,9 @@
     </tr>
 </table>
 
-\```python
-print("Привет, мир!")
-\```
+```
+Console.WriteLine("Hello")
+```
 
 [Doom](https://en.wikipedia.org/wiki/Doom_%281993_video_game%29)
 
